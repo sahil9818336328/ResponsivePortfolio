@@ -92,6 +92,13 @@ main {
   grid-template-columns: repeat(3, 1fr);
 
   .bio-image {
+     width: 270px;
+      height: 250px;
+      background: url("../img/IMG_5400.JPG");
+      background-position: center;
+      background-size: cover;
+     
+      border: 3px solid $secondary-color;
     grid-area: bioimage;
     margin: auto;
     border-radius: 50%;
