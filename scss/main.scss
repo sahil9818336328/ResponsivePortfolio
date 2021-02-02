@@ -2,6 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap");
 @import "config";
 @import "menu";
+@import "mobile";
 
 * {
   box-sizing: border-box;
@@ -205,4 +206,4 @@ main {
   color: set-text-color($primary-color);
 }
 
-@import "mobile";
+
