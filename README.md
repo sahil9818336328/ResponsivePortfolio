@@ -1,6 +1,8 @@
 # ResponsivePortfolio
 
-### Responsive portfolio built with Sass . Simple 4 page project heavily focused on Css .
+### Responsive portfolio built with Sass .
+ ## Heavily focused on Css . 
+
 
 # Technologies used: 
 
