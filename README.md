@@ -1,7 +1,7 @@
 # ResponsivePortfolio
 
 ### Responsive portfolio built with Sass .
- ## Heavily focused on Css . 
+ #### Heavily focused on Css . 
 
 
 # Technologies used: 
