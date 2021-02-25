@@ -1,8 +1,8 @@
 # ResponsivePortfolio
 
 ### Responsive portfolio built with Sass .
- #### Heavily focused on Css . 
 
+### View my deployed app at :- https://sahil9818336328.github.io/ResponsivePortfolio/
 
 # Technologies used: 
 
